@@ -7,3 +7,6 @@ The purpose of this code sample is to focus on how to use PredictHQ's event feat
 ### Model Architecture Design
 
 ![Picture title](images/workflow.png)
+
+### Download dataset
+Dataset is available at https://aws.amazon.com/marketplace/seller-profile?id=b82dc088-06e8-4b0c-9068-42e35f9a099b
